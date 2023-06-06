@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/misi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: pink;
+}
+h3{
+    font-size: 22px;
+    color: rgba(226, 96, 118, 0.712);
+    text-indent: 50px;
+}
+.quees{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    margin: 50px;
+}
+.cultivar{
+    color: gray;
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+body{
+    background-image: url(img/misi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: pink;
+}
+h3{
+    font-size: 22px;
+    color: rgba(226, 96, 118, 0.712);
+    text-indent: 50px;
+}
+h2{
+    font-size: 18px;
+    color: rgba(226, 96, 118, 0.712);
+    text-indent: 50px;
+}
+.quees{
+    font-size: 20px;
+    color: gray;
+    
+}
+.abdomen{
+    font-size: 20px;
+    color: gray;
+}
+.pierna{
+    font-size: 20px;
+    color: gray;
+}
+.brazo{
+    font-size: 20px;
+    color: gray;
+}
+.calentamiento{
+    font-size: 20px;
+    color: gray;
+}
+.rutinas{
+    font-size: 20px;
+    color: gray;
+}
+.cardio{
+    font-size: 20px;
+    color: gray;
+}
